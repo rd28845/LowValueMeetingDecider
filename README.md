@@ -1,7 +1,6 @@
 # LowValueMeetingDecider
 Agentic Zapier workflow to decide meeting importance
 
-Here's a detailed README description for your Zapier-based agentic workflow:
 
 ---
 
